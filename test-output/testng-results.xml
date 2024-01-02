@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-18T23:18:24 IST" name="Suite" finished-at="2023-10-18T23:18:24 IST" duration-ms="84">
+  <suite started-at="2024-01-01T16:46:01 IST" name="Default suite" finished-at="2024-01-01T16:46:10 IST" duration-ms="9324">
     <groups>
     </groups>
-    <test started-at="2023-10-18T23:18:24 IST" name="Test" finished-at="2023-10-18T23:18:24 IST" duration-ms="84">
-      <class name="testCases.B">
-        <test-method signature="M1()[pri:0, instance:testCases.B@313ac989]" started-at="2023-10-18T23:18:24 IST" name="M1" finished-at="2023-10-18T23:18:24 IST" duration-ms="11" status="PASS">
+    <test started-at="2024-01-01T16:46:01 IST" name="Default test" finished-at="2024-01-01T16:46:10 IST" duration-ms="9324">
+      <class name="testCases.CapturingScreenshot">
+        <test-method signature="capturingScreenshot()[pri:0, instance:testCases.CapturingScreenshot@459e9125]" started-at="2024-01-01T16:46:01 IST" name="capturingScreenshot" finished-at="2024-01-01T16:46:10 IST" duration-ms="9259" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- M1 -->
-      </class> <!-- testCases.B -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- capturingScreenshot -->
+      </class> <!-- testCases.CapturingScreenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
